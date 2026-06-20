@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://akaazuaterngu.github.io/sitemap.xml
+Sitemap: https://akaazua867.github.io/sitemap.xml
