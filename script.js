@@ -954,7 +954,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/Devon-images/devon2.jpeg",
         "images/Devon-images/devon4.jpeg"
       ],
-      description: "A virtual platform built to streamline online video interactions.",
+      description: "An AI transcription app that converts speech to text and also provides summaries of conversations, meetings, and recordings.",
       challenge: "Low initial user activation due to high product complexity.",
       action: "Designed a simplified onboarding flow and targeted social campaign tutorials.",
       result: "Grew weekly active users from 0 to 500 in the first 30 days.",
